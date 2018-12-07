@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # 어휘 사전과 워드 임베딩을 만들고, 학습을 위해 대화 데이터를 읽어들이는 유틸리티들의 모음
 import tensorflow as tf
 import numpy as np
